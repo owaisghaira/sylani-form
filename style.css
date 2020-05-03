@@ -1,0 +1,23 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    font-size: x-large;
+    border-bottom: blueviolet;
+}
+table{
+    color: white;
+    background-color: blueviolet;
+}
+.first{
+    padding: 0.8ch;
+width: 20px;
+}
+.hint{
+    font-size: 14px;
+}
+.pad{
+    size: 22;
+}
+.logo{
+    margin: 100px 450px;
+}
